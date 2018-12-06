@@ -1,0 +1,24 @@
+{
+  "name": "ok_server",
+  "version": "1.0.0",
+  "description": "HTTPS dummy server that answers to https request with 200 OK status and prints the incomming message.",
+  "main": "ok_server.js",
+  "scripts": {
+    "start": "node ./ok_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapablaza/ok_server.git"
+  },
+  "keywords": [
+    "https",
+    "server"
+  ],
+  "author": "Alexis Apablaza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aapablaza/ok_server/issues"
+  },
+  "homepage": "https://github.com/aapablaza/ok_server#readme"
+}
